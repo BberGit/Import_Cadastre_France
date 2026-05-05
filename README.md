@@ -10,3 +10,6 @@ Les couches importées sont :
 * Bâtiment
 
 Les styles des couches sont ensuites modifiés selon les fichiers de styles inclus dans le repository.
+
+## Dépendances
+Les fichiers de style *.qml* doivent être placés dans un sous-dossier **Cadastre** par rapport au projet QGIS.
