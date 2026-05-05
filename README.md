@@ -2,7 +2,7 @@
 Scripts pour QGIS 3.8+
 
 ## Description
-Permet de télécharger le cadastre parcellaire français depuis QGIS. Seule la commune au centre de l'écran principal est téléchargé.
+Permet de **télécharger le cadastre parcellaire français au format vectoriel vers QGIS**. Seule la commune au centre de l'écran principal est téléchargé.
 Les couches importées sont :
 * Commune
 * Section
@@ -13,3 +13,4 @@ Les styles des couches sont ensuites modifiés selon les fichiers de styles incl
 
 ## Dépendances
 Les fichiers de style *.qml* doivent être placés dans un sous-dossier **Cadastre** par rapport au projet QGIS.
+L'emplacement du fichier .py n'a pas d'importance.
